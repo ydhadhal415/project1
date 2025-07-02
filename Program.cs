@@ -11,7 +11,7 @@ namespace project1
         static void Main(string[] args)
         {
             Console.WriteLine("hello class");
-            Console.WriteLine("hii");
+            Console.WriteLine("Hello");
 
             Console.ReadLine();
         }
